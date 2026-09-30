@@ -1,0 +1,5 @@
+﻿id_relacion_ecosistema;id_especie;id_ecosistema;especie_dominante;frecuencia;abundancia;estado_natural;importancia_ecologica;importancia_productiva;importancia_cinegetica;importancia_paisajistica;grado_adaptacion;funcion_principal;observaciones
+RELECO0001;ESP0001;ECO0001;Si;Muy Alta;Alta;Natural;Muy Alta;Muy Alta;Muy Alta;Muy Alta;Muy Alta;Produccion de bellota y soporte de biodiversidad;Especie estructural de la dehesa iberica
+RELECO0002;ESP0002;ECO0002;Si;Muy Alta;Alta;Natural;Alta;Muy Alta;Alta;Alta;Muy Alta;Produccion maderera y resinera;Especie dominante de numerosos pinares mediterraneos
+RELECO0003;ESP0006;ECO0003;Si;Muy Alta;Alta;Natural;Muy Alta;Alta;Media;Muy Alta;Muy Alta;Estructuracion del bosque caducifolio;Especie dominante de robledales atlánticos
+RELECO0004;ESP0005;ECO0004;No;Media;Media;Natural;Alta;Media;Media;Alta;Alta;Proteccion de cauces y aporte de sombra;Especie frecuente en ecosistemas ribereños historicos

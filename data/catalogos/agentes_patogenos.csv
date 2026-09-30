@@ -1,0 +1,5 @@
+﻿id_patogeno;nombre_patogeno;nombre_cientifico;tipo_patogeno;grupo_taxonomico;organo_objetivo;mecanismo_infeccion;distribucion;nivel_riesgo;medidas_control;observaciones
+PATG0001;Ophiostoma novo-ulmi;Ophiostoma novo-ulmi;Hongo;Ascomiceto;Sistema vascular;Colonizacion del xilema;Europa;Muy Alto;Control del vector;Agente causal principal de la grafiosis
+PATG0002;Phytophthora cinnamomi;Phytophthora cinnamomi;Oomiceto;Oomycota;Raices;Propagacion edafica;Mediterraneo;Muy Alto;Gestion del suelo;Principal agente asociado a la seca
+PATG0003;Cryphonectria parasitica;Cryphonectria parasitica;Hongo;Ascomiceto;Corteza;Esporas y heridas;Europa;Muy Alto;Control biologico;Agente del chancro del castaño
+PATG0004;Armillaria spp.;Armillaria spp.;Hongo;Basidiomiceto;Raices;Contacto entre raices;Amplia;Alto;Selvicultura preventiva;Patogeno oportunista frecuente

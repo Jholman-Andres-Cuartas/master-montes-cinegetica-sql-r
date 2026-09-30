@@ -1,0 +1,20 @@
+﻿Campo;Valor
+id_especie;1
+nombre_cientifico;Quercus ilex
+nombre_vulgar;Encina
+familia;Fagaceae
+tipo_madera;Frondosa
+autoctona;Sí
+ecosistema_principal;Dehesa
+color_madera;Pardo oscuro
+grano;Medio-basto
+densidad;Alta
+producto_maderable;Carbón vegetal
+producto_no_maderable;Bellota
+fauna_asociada;Arrendajo
+fauna_cinegetica;"Jabalí; Ciervo"
+xilofagos;Cerambyx cerdo
+hongos;Phytophtora cinnamomi
+enfermedad_principal;Seca
+valor_economico_principal;Bellota
+concepto_fernando;La bellota vale más que la madera

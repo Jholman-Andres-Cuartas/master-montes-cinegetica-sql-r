@@ -1,0 +1,5 @@
+﻿id_xilofago;nombre_comun;nombre_cientifico;grupo_taxonomico;familia;tipo_dano;organo_afectado;tipo_galeria;importancia_economica;importancia_ecologica;especie_autoctona;especie_invasora;observaciones
+XIL0001;Capricornio de las encinas;Cerambyx cerdo;Coleoptera;Cerambycidae;Perforacion de madera;Tronco y ramas gruesas;Galerias longitudinales profundas;Alta;Media;Si;No;Xilofago caracteristico de quercineas como encina y alcornoque
+XIL0002;Escolitido de los pinos;Ips sexdentatus;Coleoptera;Curculionidae;Perforacion subcortical;Corteza y cambium;Galerias radiales bajo corteza;Muy Alta;Media;Si;No;Importante plaga de Pinus pinaster y otros pinos mediterraneos
+XIL0003;Escarabajo del olmo;Scolytus scolytus;Coleoptera;Curculionidae;Perforacion subcortical;Corteza y floema;Galerias bajo corteza;Muy Alta;Media;Si;No;Principal vector historico de la grafiosis de los olmos
+XIL0004;Carcoma grande de las coniferas;Hylotrupes bajulus;Coleoptera;Cerambycidae;Degradacion estructural;Madera de construccion;Galerias internas extensas;Muy Alta;Baja;Si;No;Importante en estructuras de madera de coniferas y edificaciones historicas

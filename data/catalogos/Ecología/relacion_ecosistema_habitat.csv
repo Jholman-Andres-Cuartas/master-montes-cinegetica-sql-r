@@ -1,0 +1,5 @@
+﻿id_relacion_ecosistema_habitat;id_ecosistema;id_habitat;frecuencia;representatividad;importancia_ecologica;importancia_cinegetica;importancia_piscicola;grado_naturalidad;conectividad;estado_conservacion;observaciones
+RELECOHAB0001;ECO0001;HAB0001;Muy Alta;Muy Alta;Muy Alta;Muy Alta;Baja;Alta;Alta;Buena;Elemento principal del ecosistema adehesado
+RELECOHAB0002;ECO0001;HAB0002;Media;Alta;Alta;Muy Alta;Baja;Alta;Media;Buena;Importante para poblaciones de conejo
+RELECOHAB0003;ECO0001;HAB0003;Media;Media;Muy Alta;Alta;Alta;Alta;Media;Variable;Crítica durante periodos de sequía
+RELECOHAB0004;ECO0003;HAB0004;Alta;Alta;Muy Alta;Media;Baja;Muy Alta;Alta;Buena;Elemento esencial para fauna saproxílica

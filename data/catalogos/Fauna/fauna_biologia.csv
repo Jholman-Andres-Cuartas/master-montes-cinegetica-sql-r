@@ -1,0 +1,57 @@
+﻿id_fauna_biologia;id_fauna;esperanza_vida_anios;dimorfismo_sexual;identificacion_sexos_simple;longitud_min_cm;longitud_max_cm;envergadura_min_cm;envergadura_max_cm;peso_min_g;peso_max_g;peso_min_kg;peso_max_kg;edad_madurez_sexual;tipo_reproduccion;sistema_apareamiento;epoca_celo;epoca_reproduccion;epoca_parto_puesta;num_crias_huevos_min;num_crias_huevos_max;dias_incubacion_gestacion;nombre_crias;periodo_habil_caza;habito_actividad;comportamiento_social;territorialidad;participacion_reproductiva;sex_ratio_optimo;mortalidad_juvenil;tendencia_poblacional;factor_limitante_principal;densidad_optima;observaciones_biologicas
+FAUB0001;FA0001;15;Sí;No;90;180;No aplica;No aplica;No aplica;No aplica;35;120;1 año;Vivíparo;Poligínico;Otoño-Invierno;Otoño-Invierno;Primavera;3;8;115 días;Rayón;Todo el periodo autorizado;Crepuscular-Nocturno;Gregario;Media;Alta;1:1;Media;Creciente;Disponibilidad de alimento;Variable según hábitat;Alta capacidad adaptativa
+FAUB0002;FA0002;17;Sí;No;32;37;52;58;150;220;No aplica;No aplica;1 año;Ovíparo;Monógamo;Primavera;Primavera;Abril-Mayo;4;7;16 días;Pollo;No aplica;Diurno;Parejas y pequeños grupos;Alta;Media;1:1;Media;Estable;Disponibilidad de bosque maduro;Variable;Principal dispersor de bellotas
+FAUB0003;FA0003;8;Sí;No;34;39;50;60;400;500;No aplica;No aplica;1 año;Ovíparo;Monógamo;Enero-Abril;Primavera;Abril-Agosto;11;17;23-24 días;Perdigón;Octubre-Enero;Diurna;Bandos fuera de reproducción;Alta;Media;1:1;Muy Alta;Regresiva;Pérdida de calidad del hábitat;12-20 parejas/100 ha;Especie índice del estado de conservación del hábitat
+FAUB0004;FA0004;9;Sí;No;34;45;No aplica;No aplica;900;2500;No aplica;No aplica;6 meses;Vivíparo;Poligínico;Todo el año;Todo el año;Todo el año;3;8;30 días;Gazapo;Periodo autorizado;Crepuscular-Nocturno;Colonial;Media;Alta;1:1;Muy Alta;Variable;Enfermedades y depredación;Variable;Especie presa clave
+FAUB0005;FA0005;20;Sí;Sí;160;250;No aplica;No aplica;No aplica;No aplica;90;250;2 años;Vivíparo;Poligínico;Septiembre-Octubre;Otoño;Mayo-Junio;1;2;235 días;Cervatillo;Periodo autorizado;Crepuscular;Gregario;Media;Alta;1:1;Media;Estable;Disponibilidad de hábitat;Variable;Especie emblemática de caza mayor
+FAUB0006;FA0006;10;Sí;No;60;90;No aplica;No aplica;3000;10000;No aplica;No aplica;1 año;Vivíparo;Poligínico;Invierno;Invierno;Primavera;4;8;52 días;Cachorro;No aplica;Crepuscular-Nocturno;Solitario;Alta;Media;1:1;Media;Estable;Disponibilidad de alimento;Variable;Depredador generalista
+FAUB0007;FA0007;25;Sí;Sí;55;75;150;180;1500;2500;No aplica;No aplica;4 años;Ovíparo;Monógamo;Invierno;Invierno-Primavera;Febrero-Marzo;1;2;38 días;Pollo;No aplica;Diurna;Pareja territorial;Muy Alta;Alta;1:1;Alta;Regresiva;Electrocución y pérdida de hábitat;Muy baja;Especialista en aves y lagomorfos
+FAUB0008;FA0008;12;Sí;Sí;95;140;No aplica;No aplica;No aplica;No aplica;20;35;1 año;Vivíparo;Poligínico;Julio-Agosto;Verano;Mayo-Junio;1;2;290 días;Corcino;Periodo autorizado;Crepuscular;Solitario;Alta;Media;1:1;Media;Creciente;Disponibilidad de hábitat;Variable;Especie con expansión poblacional en gran parte de España
+FAUB0009;FA0009;16;Sí;Sí;120;170;No aplica;No aplica;No aplica;No aplica;40;100;2 años;Vivíparo;Poligínico;Octubre-Noviembre;Otoño;Mayo-Junio;1;2;230 días;Gabato;Periodo autorizado;Crepuscular;Gregario;Media;Media;1:1;Media;Estable;Disponibilidad de recursos;Variable;Frecuente en fincas dedicadas a gestión cinegética
+FAUB0010;FA0010;18;Sí;Sí;100;150;No aplica;No aplica;No aplica;No aplica;35;110;2 años;Vivíparo;Poligínico;Noviembre-Diciembre;Invierno;Mayo-Junio;1;2;165 días;Cabrito;Periodo autorizado;Diurna;Gregaria;Media;Media;1:1;Media;Estable;Capacidad de carga del hábitat;Variable;Especie emblemática de montaña mediterránea
+FAUB0011;FA0011;8;Sí;No;45;70;No aplica;No aplica;2000;5000;No aplica;No aplica;1 año;Vivíparo;Promiscuo;Invierno-Primavera;Primavera-Verano;Todo el año;1;4;42 días;Leporino;Periodo autorizado;Crepuscular-Nocturna;Solitaria;Alta;Media;1:1;Alta;Regresiva;Agricultura intensiva;Variable;Importante especie de caza menor de pelo
+FAUB0012;FA0012;5;Sí;No;16;18;32;35;70;150;No aplica;No aplica;1 año;Ovíparo;Polígamo;Abril-Junio;Primavera-Verano;Mayo-Agosto;8;15;17 días;Pollo;Agosto-Septiembre;Diurna;Solitaria;Baja;Media;1:1;Alta;Regresiva;Agricultura intensiva;Variable;Especie migradora transahariana
+FAUB0013;FA0013;15;Sí;No;38;43;68;80;300;600;No aplica;No aplica;1 año;Ovíparo;Monógamo;Primavera;Primavera-Verano;Abril-Agosto;1;2;17 días;Pichón;Periodo autorizado;Diurna;Gregaria;Media;Media;1:1;Media;Creciente;Disponibilidad de alimento;Variable;Presenta fuerte expansión poblacional en España
+FAUB0014;FA0014;14;Sí;No;85;110;No aplica;No aplica;8000;15000;No aplica;No aplica;2 años;Vivíparo;Poligínico;Invierno;Invierno;Primavera;1;4;63 días;Cachorro;No aplica;Crepuscular-Nocturno;Solitario;Alta;Media;1:1;Alta;Creciente;Disponibilidad de conejo;Muy baja;Depredador especialista altamente dependiente del conejo
+FAUB0015;FA0015;8;No;No aplica;20;80;No aplica;No aplica;200;10000;No aplica;No aplica;2 años;Ovíparo;No aplica;Otoño;Otoño-Invierno;Invierno;200;2000;60 días;Alevín;Pesca autorizada;Diurna;Solitaria;Baja;Variable;1:1;Alta;Variable;Calidad del agua;Variable;Especie indicadora de aguas de alta calidad
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

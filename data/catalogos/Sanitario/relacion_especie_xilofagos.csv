@@ -1,0 +1,5 @@
+﻿id_relacion_xilofago;id_especie;id_xilofago;susceptibilidad;gravedad;parte_afectada;organo_afectado;impacto_productivo;impacto_ecologico;impacto_economico;afecta_calidad_madera;afecta_crecimiento;afecta_mortalidad;epoca_principal;frecuencia;tipo_control;observaciones
+RELXIL0001;ESP0001;XIL0001;Alta;Alta;Tronco;Madera y cambium;Alto;Medio;Alto;Si;No;No;Primavera-Verano;Frecuente;Gestión forestal y seguimiento;Xilofago caracteristico de encinares maduros
+RELXIL0002;ESP0002;XIL0002;Muy Alta;Muy Alta;Corteza;Floema y cambium;Muy Alto;Alto;Muy Alto;Si;Si;Si;Primavera-Verano;Frecuente;Control selvícola y retirada de focos;Principal escolitido asociado a pinares mediterraneos
+RELXIL0003;ESP0005;XIL0003;Muy Alta;Muy Alta;Corteza;Floema;Muy Alto;Muy Alto;Muy Alto;Si;Si;Si;Primavera-Verano;Frecuente;Control del vector y vigilancia sanitaria;Relacionado con la transmisión de la grafiosis
+RELXIL0004;ESP0002;XIL0004;Media;Alta;Madera puesta en servicio;Madera estructural;Alto;Bajo;Alto;Si;No;No;Todo el año;Ocasional;Tratamientos protectores de la madera;Especialmente importante en estructuras construidas

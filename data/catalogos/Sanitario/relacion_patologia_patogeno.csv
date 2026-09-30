@@ -1,0 +1,5 @@
+﻿id_relacion_patogeno;id_patologia;id_patogeno;agente_principal;importancia;evidencia_cientifica;observaciones
+RELPATGEN0001;PAT0001;PATG0001;Si;Muy Alta;Muy Alta;Relacion causal directa
+RELPATGEN0002;PAT0002;PATG0002;Si;Muy Alta;Muy Alta;Principal agente asociado a la enfermedad
+RELPATGEN0003;PAT0003;PATG0003;Si;Muy Alta;Muy Alta;Patogeno responsable del chancro
+RELPATGEN0004;PAT0004;PATG0004;Si;Alta;Alta;Responsable de podredumbres radicales

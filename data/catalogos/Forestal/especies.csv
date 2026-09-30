@@ -1,0 +1,3 @@
+﻿id_especie;nombre_cientifico;nombre_vulgar;familia;tipo_madera;autoctona;ecosistema_principal;color_madera;grano;densidad;producto_maderable;producto_no_maderable;xilofagos;hongos;enfermedad_principal;valor_economico_principal;concepto_fernando
+ESP0001;Quercus ilex;Encina;Fagaceae;Frondosa;Sí;Dehesa;Pardo oscuro;Medio-basto;Alta;Carbón vegetal;Bellota;Cerambyx cerdo;Phytophtora cinnamomi;Seca;Bellota;La bellota vale más que la madera
+ESP0002;Pinus pinaster;Pino resinero;Pinaceae;Conifera;Sí;Pinar mediterraneo;Pardo rojizo;Medio;Media;Cosntrucción;Resina;Ips sexdentatus;Armillaria;Decaimiento;Resina;La resina explica su historia económica

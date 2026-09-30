@@ -1,0 +1,5 @@
+﻿id_relacion_fauna_habitat;id_fauna;id_habitat;tipo_relacion;intensidad_uso;epoca_uso;funcion_principal;importancia_ecologica;importancia_cinegetica;observaciones
+RELFH0001;FA0003;HAB0002;Refugio;Muy Alta;Todo el año;Proteccion;Muy Alta;Muy Alta;Habitat esencial para poblaciones de conejo
+RELFH0002;FA0001;HAB0003;Abastecimiento de agua;Alta;Verano;Hidratacion;Alta;Alta;Especialmente importante en periodos secos
+RELFH0003;FA0002;HAB0001;Alimentacion;Alta;Otoño;Consumo y dispersión de bellotas;Muy Alta;Baja;Fundamental para la regeneración natural
+RELFH0004;FA0004;HAB0001;Alimentacion y refugio;Muy Alta;Todo el año;Cria y alimentacion;Alta;Muy Alta;Habitat óptimo para la especie

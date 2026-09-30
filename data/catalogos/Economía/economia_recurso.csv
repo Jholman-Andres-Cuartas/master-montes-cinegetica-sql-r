@@ -1,0 +1,5 @@
+﻿id_economia;id_producto;tipo_valor;sector_economico;escala_mercado;valor_relativo;demanda;potencial_crecimiento;impacto_empleo;impacto_rural;impacto_ambiental;dependencia_local;sustituibilidad;servicio_ecosistemico_asociado;observaciones;concepto_fernando_economia
+ECOVAL0001;PRO0001;Directo;Ganadero;Nacional;Muy Alto;Alta;Alta;Alta;Muy Alta;Positivo;Muy Alta;Baja;Montanera;La bellota sostiene economías rurales enteras;La bellota vale más que la madera
+ECOVAL0002;PRO0003;Directo;Industrial;Internacional;Alto;Media;Alta;Media;Alta;Positivo;Media;Media;Industria química renovable;La resina conecta el monte con la industria;La resina explica la historia económica del pino resinero
+ECOVAL0003;PRO0008;Directo;Mueble de alto valor;Internacional;Muy Alto;Alta;Alta;Media;Media;Neutral;Baja;Baja;Producción de madera noble;La estética genera valor económico;La belleza puede valer más que la resistencia
+ECOVAL0004;PRO0010;Directo;Industria corchera;Internacional;Muy Alto;Alta;Alta;Alta;Muy Alta;Muy Positivo;Alta;Muy Baja;Conservación de alcornocales;Industria y conservación se retroalimentan;Si el corcho tiene valor, el alcornocal se conserva

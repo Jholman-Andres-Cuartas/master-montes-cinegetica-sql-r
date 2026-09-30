@@ -1,0 +1,5 @@
+﻿id_producto;id_especie;producto;producto_principal;tipo_producto;categoria_producto;parte_aprovechada;aprovechamiento_principal;uso_historico;uso_actual;industria_asociada;valor_economico;interes_ecologico;interes_cinegetico;interes_piscicola;compuestos_relevantes;observaciones;concepto_fernando_producto
+PRO0001;ESP0001;Bellota;SI;No maderable;Alimentario;Fruto;Ganadero-cinegetico;Montanera;Ganaderia extensiva;Ganaderia iberica;Muy Alto;Muy Alto;Muy Alto;No Aplica;Taninos;Elemento clave del ecosistema de dehesa;La bellota sostiene la montanera.
+PRO0002;ESP0001;Madera;NO;Maderable;Energetico-estructural;Fuste;Leña;Carbón vegetal;Biomasa;Energetica;Medio;Medio;Bajo;No Aplica;Taninos;Muy alta densidad energética;
+PRO0003;ESP0002;Resina;SI;No maderable;Industrial;Canales resiniferos;Resinacion;Industria resinera;Industria quimica;Barnices;Muy Alto;Bajo;Bajo;No Aplica;Terpenos;Producto historicamente más importante que la propia madera;La resina explica la historia económica del pino resinero.
+PRO0004;ESP0002;Madera;NO;Maderable;Construccion;Fuste;Construccion;Construccion;tableros;Maderera;Alto;Medio;Medio;No Aplica;Resinas;Amplio uso estructural;

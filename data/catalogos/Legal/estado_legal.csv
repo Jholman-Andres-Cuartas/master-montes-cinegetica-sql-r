@@ -1,0 +1,5 @@
+﻿id_estado_legal;id_especie;especie_protegida;nivel_proteccion;catalogo_nacional;catalogo_autonomico;especie_autoctona;especie_aloctona;especie_invasora;habitat_interes_comunitario;habitat_prioritario;red_natura_2000;aprovechamiento_maderable;aprovechamiento_no_maderable;restricciones_comerciales;restricciones_cinegeticas;restricciones_selvicolas;normativa_principal;organismo_competente;grado_proteccion;observaciones_legales
+EL0001;ESP0001;No;Sin protección específica;No;No;Sí;No;No;Sí;No;Sí;Permitido;Permitido;No;No;Sí;Ley de Montes;Administración Forestal;Medio;Especie fundamental de ecosistemas mediterráneos
+EL0002;ESP0002;No;Sin protección específica;No;No;Sí;No;No;No;No;No;Permitido;Permitido;No;No;Sí;Ley de Montes;Administración Forestal;Bajo;Importante para aprovechamiento maderero y resinero
+EL0003;ESP0005;No;Interés de conservación;No;Sí;Sí;No;No;Sí;No;Sí;Limitado;Permitido;No;No;Sí;Normativa autonómica;Administración Forestal;Alto;Afectado históricamente por la grafiosis
+EL0004;ESP0004;No;Interés forestal;No;No;Sí;No;No;Sí;No;Sí;Permitido;Permitido;No;No;Sí;Ley de Montes;Administración Forestal;Medio;Importante por producción de fruto y madera
