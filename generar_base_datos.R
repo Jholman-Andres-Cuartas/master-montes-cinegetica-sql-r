@@ -130,4 +130,16 @@ write.csv(conflictos_sanitarios, file.path(ruta_base, "Sanitario", "relacion_fau
 
 message("🚀 Base de datos e ingeniería de variables consolidada en /data desde R.")
 
+# 1. Vincula tu proyecto con tu repositorio de GitHub de la imagen
+git remote add origin https://github.com
+
+# 2. Prepara todos los nuevos .csv y el script para el guardado
+git add .
+
+# 3. Haz la foto de control de tu avance
+git commit -m "Estructura completa de datos y script de automatización geoespacial"
+
+# 4. Sube el proyecto a internet (en la rama 'main')
+git push -u origin main
+
 
